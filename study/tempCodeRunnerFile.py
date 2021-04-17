@@ -1,1 +1,0 @@
-        self.lstm3 = tf.keras.layers.LSTM(kargs['lstm_dimension'])
